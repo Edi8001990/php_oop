@@ -32,7 +32,7 @@ $object = new Test();
 
 //$object->ourProperty = 'Value changed';
 
-$object->setProperty('I am the new value.');
+$object->setProperty('I am the new value. Read me.');
 
 echo $object->getProperty();
 
